@@ -61,52 +61,22 @@ Ciências da Computação
 
 ## Problema
 Conforme exposto, o problema que se busca resolver com este projeto seria o fato das pessoas caírem em golpes e piramides financeiras, que vem prejudicando cada vez mais os usuários que buscam alguma oportunidade de renda financeira mais fácil, produtos com preços mais acessíveis, e oportunidades de facilitar a vida do usuário no geral.
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Objetivos:
 Com o nosso trabalho,buscamos reduzir o índice de pessoas que caem em golpes e esquemas de pirâmide, por meio de uma solução que busca informar a população e expor situações que ocorreram essas situações.
 Temos como meta fazer com que a solução seja acessível a todos,de modo que ela seja mais simples, didática e objetiva possibilitando todas as pessoas de todos os públicos conseguirem utilizá-la.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
 Segundo a Febraban (Federação Brasileira de Bancos) 86% dos brasileiros apresentam medo de serem vítimas de golpes no geral e em uma pesquisa feita pelo grupo, pode-se concluir que 74% dos participantes conhecem alguma vítima  e 86,1% acreditam que ainda há falta de informação sobre o assunto.  Portanto acredita-se que esses altos índices são alarmantes e são gerados devido a falta de informação e divulgação para orientar as pessoas sobre esse tema.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 Embora a intenção da informação seja atingir vários públicos, o foco do produto está em quem quer entender mais sobre esse tema que vem afetando muitos para ampliarem seus conhecimentos e se precaver de alguma maneira.Portanto, pode-se definir que o público alvo seja
  homens entre 35 e 50 anos, por ser uma faixa etária mais afetada com essas causas, segundo uma pesquisa pelo O Globo. 
 
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
