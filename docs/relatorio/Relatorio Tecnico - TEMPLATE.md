@@ -55,6 +55,11 @@ Ciências da Computação
 
 # Introdução
 
+Entre 2020 e 2021 os comunicados sobre crimes financeiros sofreram um aumento de 75%. Esse fato é apenas um entre vários outros fatores preocupantes nesse cenário. O aumento do desemprego, que se mantém nos últimos anos, é um fator que acarretou um aumento nas buscas por meios  questionáveis de gerar renda. 
+
+Além disso, a disseminação de esquemas fraudulentos pelos meios digitais agravou o alcance que os criminosos financeiros têm e explorou a vulnerabilidade existente devido à falta de conhecimento sobre o assunto. É importante ressaltar que durante a pandemia o Brasil chegou a 152 milhões de usuários da internet (segundo o site “Olhar Digital”). Entre outros fatores esse fato, gerou um aumento de 198,1% nos golpes aplicados pela internet.  Por isso, acreditamos que utilizar os meios digitais de forma inteligente, acessível e didática é a melhor forma de combater essa questão que atinge inúmeros cidadãos.
+
+
 ## Problema
 Conforme exposto, o problema que se busca resolver com este projeto seria o fato das pessoas caírem em golpes e piramides financeiras, que vem prejudicando cada vez mais os usuários que buscam alguma oportunidade de renda financeira mais fácil, produtos com preços mais acessíveis, e oportunidades de facilitar a vida do usuário no geral.
 
