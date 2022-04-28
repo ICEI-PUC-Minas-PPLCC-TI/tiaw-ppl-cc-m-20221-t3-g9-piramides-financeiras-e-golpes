@@ -92,34 +92,16 @@ Temos como meta fazer com que a solução seja acessível a todos,de modo que el
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Segundo a Febraban (Federação Brasileira de Bancos) 86% dos brasileiros apresentam medo de serem vítimas de golpes no geral e em uma pesquisa feita pelo grupo, pode-se concluir que 74% dos participantes conhecem alguma vítima  e 86,1% acreditam que ainda há falta de informação sobre o assunto.  Portanto acredita-se que esses altos índices são alarmantes e são gerados devido a falta de informação e divulgação para orientar as pessoas sobre esse tema.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Embora a intenção da informação seja atingir vários públicos, o foco do produto está em quem quer entender mais sobre esse tema que vem afetando muitos para ampliarem seus conhecimentos e se precaver de alguma maneira.Portanto, pode-se definir que o público alvo seja
+ homens entre 35 e 50 anos, por ser uma faixa etária mais afetada com essas causas, segundo uma pesquisa pelo O Globo. 
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
 > 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
