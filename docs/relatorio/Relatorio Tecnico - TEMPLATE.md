@@ -14,8 +14,13 @@ Ciências da Computação
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Henrique Azevedo Flores
+> - Caio Andrade Franco
+> - Marcos Paulo Neves
+> - Nicolas de Azevedo Costa
+> - Igor Vidal Meneghini
+> - Pedro Junqueira Guimarães Justino
+> - Otavio Martins Oliveira 
 
 # Estrutura do Documento
 
@@ -55,7 +60,7 @@ Ciências da Computação
 # Introdução
 
 ## Problema
-
+Conforme exposto, o problema que se busca resolver com este projeto seria o fato das pessoas caírem em golpes e piramides financeiras, que vem prejudicando cada vez mais os usuários que buscam alguma oportunidade de renda financeira mais fácil, produtos com preços mais acessíveis, e oportunidades de facilitar a vida do usuário no geral.
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
@@ -78,11 +83,9 @@ Ciências da Computação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> Objetivos:
+Com o nosso trabalho,buscamos reduzir o índice de pessoas que caem em golpes e esquemas de pirâmide, por meio de uma solução que busca informar a população e expor situações que ocorreram essas situações.
+Temos como meta fazer com que a solução seja acessível a todos,de modo que ela seja mais simples, didática e objetiva possibilitando todas as pessoas de todos os públicos conseguirem utilizá-la.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
