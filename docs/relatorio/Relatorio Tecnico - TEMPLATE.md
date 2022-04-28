@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pirâmides Financeiras e Golpes
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciências da Computação
 
 ## Participantes
 
