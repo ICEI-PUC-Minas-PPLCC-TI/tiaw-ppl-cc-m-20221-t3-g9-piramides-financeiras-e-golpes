@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="css/default/default.css" type="text/css" media="screen" />
+
+  <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+  <title>Portal Finsec</title>
+</head>
+
+<body id="home">
+  <div id="wrapper">
+
+    <!--__--__--__--__--__--  L O G O  &   N A V    B A R --__--___--__--__--__-->
+    <header>
+      <div id="logo">
+        <h1>FINSEC <span id="iisrt"><span id="ii">II</span> <span id="srt">---</span></span></h1>
+        <div id="tagline">
+          <h2>Página Inicial</h2>
+        </div>
+      </div>
+      <nav>
+        <ul id="navbar-items">
+          <li><a href="index.html" id="homenav">Início</a></li>
+          <li><a href="noticias.html" id="blognav">Notícias</a></li>
+          <li><a href="contact.html">Contato</a></li>
+          <li><a href="login.html" id="fullwidthnav">Login</a></li>
+
+        </ul>
+      </nav>
+    </header>
+
+    <!--__--__--__--__--  T H E    S L I D E R --__--__--__--___--__--__--__-->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+    <div id="container"
+      style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto;border-radius: 10px;margin-bottom: 50px;">
+    </div>
+
+    <!--__--__--__--__--  M A I N   C O N T E N T  --__--__--__--___--__--__-->
+    <section>
+      <div id="line">
+        <div class="dline"></div>
+        <h1>NOTÍCIAS</h1>
+        <div class="dline"></div>
+      </div>
+      <div id="ourserv">
+        <article>
+          <h1>Como evitar golpes?</h1>
+          <img src="images/1.jpg" alt="" height="150" width="300" />
+          <p>Conheça algumas maneiras de se proteger de tentativas de golpes financeiros.</p>
+          <a href="https://economia.uol.com.br/mais/pagbank/2022/06/29/como-evitar-golpes-financeiros.htm" class="rm">Ler mais</a>
+        </article>
+        <article>
+          <h1>6 Golpes comuns</h1>
+          <img src="images/2.jpg" alt="" height="150" width="300"/>
+          <p>Conheça 6 tipos de golpes que acontecem com muita frequência e como evitá-los.</p>
+          <a href="https://jornalhoraextra.com.br/6-golpes-financeiros-comuns-que-as-pessoas-devem-se-preocupar-veja-como-fugir/" class="rm">Ler mais</a>
+        </article>
+        <article class="lastarticle">
+          <h1>Até os famosos</h1>
+          <img src="images/3.jpg" alt="" height="150" width="300"/>
+          <p>Conheça personalidades que foram vítimas de golpes financeiros.</p>
+          <a href="https://www.uol.com.br/splash/noticias/2022/07/05/famosos-que-levaram-golpes-financeiros.htm" class="rm">Ler mais</a>
+        </article>
+      </div>
+
+    </section>
+    <!--__--__--__--__--  T H E    F O O T E R --__--__--__--___--__--__--__-->
+    <footer>
+      <p>Copyright &copy 2022 by Portal Finsec</p>
+    </footer>
+  </div>
+  <script src="js/Graficos.js"></script>
+  <script src="js/index.js"></script>
+
+</body>
+
+</html>
